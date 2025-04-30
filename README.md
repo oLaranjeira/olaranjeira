@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! Sou Jefferson Laranjeira da Silva</h1>
+<h1 align="center">Olá! Sou Jeff Laranjeira</h1>
 
 <p align="center">
   💻 Entusiasta de Tecnologia da Informação <br>
@@ -9,7 +9,7 @@
 
 ---
 
-# Sobre mim
+**Sobre mim**
 
 - Interesso-me por programação, redes, hardware e tudo que envolve tecnologia
 - Atualmente aprendendo: [Lógica de Programação, Python.]
@@ -18,6 +18,6 @@
 
 # Contato
 
-- LinkedIn: [[seu-link-aqui](https://www.linkedin.com/in/olaranjeira/)]
-- Email: [jlaranjeira@protonmail.com]
+- LinkedIn: https://www.linkedin.com/in/olaranjeira/
+- Email: jlaranjeira@protonmail.com
 
