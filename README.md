@@ -12,7 +12,7 @@
 **Sobre mim**
 
 - Interesso-me por programação, redes, hardware e tudo que envolve tecnologia
-- Atualmente aprendendo: [Lógica de Programação, Python.]
+- Atualmente aprendendo: Lógica de Programação, Python.
 
 
 
