@@ -14,42 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Olá! 👋 Eu sou [Seu Nome ou Username]</h1>
+<h1 align="center">Olá! 👋 Eu sou [Jefferson Laranjeira da Silva]</h1>
 
 <p align="center">
   💻 Entusiasta de Tecnologia da Informação <br>
-  🚀 Aprendendo e explorando o mundo da TI <br>
+   Aprendendo e explorando o mundo da TI <br>
   📚 Curioso por novas linguagens, ferramentas e ideias
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+# Sobre mim
 
-- 🎯 Sempre em busca de aprender algo novo
-- 🛠️ Interesso-me por programação, redes, hardware e tudo que envolve tecnologia
-- 🌱 Atualmente aprendendo: [coloque aqui ex: Python, Git, Linux...]
-
----
-
-### 🔧 Ferramentas & Tecnologias
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-*(Adicione ou remova conforme o que você usa/estuda)*
+- Interesso-me por programação, redes, hardware e tudo que envolve tecnologia
+- Atualmente aprendendo: [Lógica de Programação, Python.]
 
 ---
 
-### 📫 Contato
+# Contato
 
-- LinkedIn: [seu-link-aqui]
-- Email: [seu-email-aqui]
-- Portfólio: [seu-site, se tiver]
+- LinkedIn: [[seu-link-aqui](https://www.linkedin.com/in/olaranjeira/)]
+- Email: [jlaranjeira@protonmail.com]
 
----
-
-<p align="center">
-  Obrigado por visitar meu perfil! 🚀
-</p>
