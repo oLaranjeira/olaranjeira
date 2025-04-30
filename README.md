@@ -7,14 +7,14 @@
   📚 Curioso por novas linguagens, ferramentas e ideias
 </p>
 
----
+
 
 **Sobre mim**
 
 - Interesso-me por programação, redes, hardware e tudo que envolve tecnologia
 - Atualmente aprendendo: [Lógica de Programação, Python.]
 
----
+
 
 # Contato
 
